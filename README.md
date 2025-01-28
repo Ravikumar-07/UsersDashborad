@@ -137,10 +137,3 @@ Edit
 8. **Contributing**: Encourages others to fork and contribute to the project.
 
 9. **License**: Includes the project license (you can update or remove the `LICENSE` section if not applicable).
-
-### Next Steps:
-
-1. **Update the GitHub Repository**: Push the `README.md` file to your GitHub repository.
-2. **Provide a Live Demo Link**: Add a live demo link (GitHub Pages, Netlify, Vercel, etc.) if you have deployed the app online.
-
-Let me know if you need help with any of the setup or deployment steps!
